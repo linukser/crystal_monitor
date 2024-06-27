@@ -1,0 +1,13 @@
+name: crystal_monitor
+version: 0.1.0
+
+authors:
+  - Marek Janik <linukser@gmail.com>
+
+targets:
+  crystal_monitor:
+    main: src/crystal_monitor.cr
+
+crystal: 1.9.2
+
+license: MIT
